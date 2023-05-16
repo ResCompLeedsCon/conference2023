@@ -10,7 +10,7 @@ We want all attendees to have an enjoyable experience at ResCompLeedsCon. All at
 
 ##### The short version
 
-If you have a question about the code of conduct or wish to report misconduct, please email [rescomp@leeds.ac.uk​](rescomp@leeds.ac.uk​).
+If you have a question about the code of conduct or wish to report misconduct, please email [rescomp@leeds.ac.uk​](mailto:rescomp@leeds.ac.uk).
 
 Be kind to others. Do not insult or put down others. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate.
 
@@ -28,7 +28,7 @@ The Research Computing Leeds Conference Organisers are committed to creating a w
 
 The Code of Conduct should be honoured by everyone who participates in the conference and across all conference activities. This Code of Conduct applies to all spaces related to the conference including, but not limited to, workshops, email lists, and online forums such as GitHub, Slack and Twitter. Session chairs are expected to assist with the enforcement of the Code of Conduct.
 
-The Research Computing Leeds Conference Organising committee is responsible for enforcing the Code of Conduct. They can be contacted by emailing [rescomp@leeds.ac.uk​](rescomp@leeds.ac.uk​). All reports will be reviewed by the Organising committee and will be kept confidential.
+The Research Computing Leeds Conference Organising committee is responsible for enforcing the Code of Conduct. They can be contacted by emailing [rescomp@leeds.ac.uk​](mailto:rescomp@leeds.ac.uk). All reports will be reviewed by the Organising committee and will be kept confidential.
 
 ###### Part 2: Code of Conduct
 
