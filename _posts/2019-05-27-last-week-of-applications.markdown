@@ -3,7 +3,7 @@ layout: post
 title:  "Last week of applications!"
 date:   2019-05-27 10:45:00
 isStaticPost: false
-image: auckland.jpg
+image: uol1.jpeg
 ---
 We’ve had so much interest in ResBaz - questions, offers to contribute and over 200 applications. Wow! Thank you.  
 

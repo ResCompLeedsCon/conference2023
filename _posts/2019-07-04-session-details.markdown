@@ -3,7 +3,7 @@ layout: post
 title:  "Session details"
 date:   2019-07-04 10:45:00
 isStaticPost: false
-image: auckland.jpg
+image: uol1.jpeg
 ---
 Notices: 
 1) Most sessions are 1-2 hours but the Introduction to Deep Learning is 3 hours with a break in between.

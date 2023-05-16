@@ -3,7 +3,7 @@ layout: post
 title:  "Check the Schedule"
 date:   2019-06-6 10:45:00
 isStaticPost: false
-image: auckland.jpg
+image: uol1.jpeg
 ---
 Ta Da!
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Applications closed!"
 date:   2019-06-04 10:45:00
 isStaticPost: false
-image: auckland.jpg
+image: uol1.jpeg
 ---
 Applications closed with a massive 239 applicants! 
 Unfortunately we cannot offer everyone a spot at ResBaz. 
