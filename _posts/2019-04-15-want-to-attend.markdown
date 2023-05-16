@@ -3,7 +3,7 @@ layout: post
 title:  "Want to attend?"
 date:   2019-04-15 09:00:00
 isStaticPost: false
-image: auckland.jpg
+image: uol1.jpeg
 ---
 We’ve been busy getting things ready! Applications to attend ResBaz Auckland 2019 are now open until Friday 31st May.
 

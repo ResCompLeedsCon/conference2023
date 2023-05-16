@@ -3,7 +3,7 @@ layout: post
 title:  "Published presentations and staying connected"
 date:   2019-09-03 10:45:00
 isStaticPost: false
-image: auckland.jpg
+image: uol1.jpeg
 ---
 
 It’s been nearly two months since ResBaz – _how are your superpowers developing_? We hope your digital research skills journey is going well!
