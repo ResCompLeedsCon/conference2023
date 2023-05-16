@@ -179,7 +179,7 @@ footerBlocks:
  -
   title: "Get in touch"
   links:
-   - {link: "mailto:rescomp@leeds.ac.uk​", text: "Contact us"}
+   - {link: "mailto:rescomp@leeds.ac.uk", text: "Contact us"}
  -
   title: "FAQ"
   links:
