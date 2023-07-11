@@ -52,15 +52,16 @@ eventDate: ""
 typeoutTextValues: '""'
 typeoutFallback: ""
 heroButtons:
- - {link: "https://ti.to/research-computing-conference/research-computing-conference", text: "Register"}
- - {link: "/conference2023/schedule/", text: "View schedule"}
+#  - {link: "https://ti.to/research-computing-conference/research-computing-conference", text: "Register"}
+#  - {link: "/conference2023/schedule/", text: "View schedule"}
+ - {link: "#", text: "Conference Postponed"}
 
 # About Block
 aboutTitle: "About ResCompLeedsCon2023"
 aboutSubtitle: ""
-aboutText: "<p>The Research Computing Leeds Conference is the number 1 conference in Leeds showcasing the fantastic computational research that happens across campus.</p>
-
-<p>Coordinated by the Research Computing team and friends, the conference aims to include talks from across multiple disciplines and multiple career stages aiming to bring together computational researchers to share stories and best practice.</p>
+aboutText: "<p><b>Conference postponed, new dates to be confirmed shortly.</b></p>
+<The>The Research Computing Leeds Conference is the number 1 conference in Leeds showcasing the fantastic computational research that happens across campus.
+The conference aims to include talks from across multiple disciplines and multiple career stages aiming to bring together computational researchers to share stories and best practice.</p>
 
 <p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD and research Masters students are especially encouraged to apply.</p>"
 
